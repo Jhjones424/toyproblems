@@ -5,6 +5,8 @@
 /*
  * @param {number} x
  * @return {number}
+ *
+ * //Complete
  */
 
 var reverse = function(x) {
